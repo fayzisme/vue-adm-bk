@@ -1,0 +1,9 @@
+{
+  "name": "lontar-dashboard:4902",
+  "script": "./app.js",
+  "watch": false,
+  "env": {
+      "PORT": 4902,
+      "NODE_ENV": "production"
+  }
+}

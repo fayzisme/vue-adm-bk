@@ -1,0 +1,11 @@
+module.exports = {
+    apps: [{
+        "name": "lontar-dashboard:4902",
+        "script": "./app.js",
+        "watch": false,
+        "env": {
+            "PORT": lontar,
+            "NODE_ENV": "production"
+        }
+    }]
+}
